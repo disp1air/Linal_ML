@@ -3,30 +3,30 @@
 
 Длина вектора – число, равное корню из суммы квадратов его элементов.   
 
-## $a = \begin{pmatrix}x_1\\.\\.\\.\\x_n\end{pmatrix}$  $b = \begin{pmatrix}y_1\\.\\.\\.\\y_n\end{pmatrix}$
+![formula](https://latex.codecogs.com/gif.latex?a%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_1%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20.%20%5C%5Cx_n%20%5Cend%7Bbmatrix%7D%20%5C%20b%20%3D%20%5Cbegin%7Bbmatrix%7D%20y_1%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20.%20%5C%5Cy_n%20%5Cend%7Bbmatrix%7D)
 
 ## Операции над векторами
 
 1. ### умножение на константу
 
-      ## a * c = $\begin{pmatrix}x_1 * c\\.\\.\\.\\x_n * c\end{pmatrix}$
+   ![formula](https://latex.codecogs.com/gif.latex?a%20%5Cast%20c%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_1%20%5Cast%20c%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20x_n%20%5Cast%20c%20%5Cend%7Bbmatrix%7D)   
 
 2. ### сложение векторов
 
-      ## a + b = $\begin{pmatrix}x_1 + y_1\\.\\.\\.\\x_n + y_n\end{pmatrix}$
+   ![formula](https://latex.codecogs.com/gif.latex?a%20&plus;%20b%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_1%20&plus;%20y_1%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20x_n%20&plus;%20y_n%20%5Cend%7Bbmatrix%7D) 
 
 3. ### разность векторов
 
-      ## a - b = $\begin{pmatrix}x_1 - y_1\\.\\.\\.\\x_n - y_n\end{pmatrix}$
+   ![formula](https://latex.codecogs.com/gif.latex?a%20-%20b%20%3D%20%5Cbegin%7Bbmatrix%7D%20x_1%20-%20y_1%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20.%20%5C%5C%20x_n%20-%20y_n%20%5Cend%7Bbmatrix%7D)  
 
 4. ### **Длина вектора** – число, равное корню из суммы квадратов его элементов. 
 
-      ## [a] = $\sqrt{x_1^2 + x_2^2 + ... + x_n^2}$
+   ![formula](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%20a%20%5Cright%20%7C%20%3D%20%5Csqrt%7Bx_1%5E2%20&plus;%20x_2%5E2%20&plus;%20...%20&plus;%20x_n%5E2%7D)
 
 5. ## **Скалярное произведение двух векторов**. 
 равно сумме попарных произведений соответствующих элементов (т.е. элементов с соответствующими индексами). В тоже время скалярное произведение равно произведению длин этих векторов, умноженному на косинус угла между ними.  
 
-  ## a * b = $x_1 * y_1 + x_2 * y_2 + ... + x_n * y_n = [a] * [b] * \cos\alpha$  
+   ![formula](https://latex.codecogs.com/gif.latex?a%20*%20b%20%3D%20x_1%20*%20y_1%20&plus;%20x_2%20*%20y_2%20&plus;%20...%20&plus;%20x_n%20*%20y_n%20%3D%20%5Cleft%20%7C%20a%20%5Cright%20%7C%20*%20%5Cleft%20%7C%20b%20%5Cright%20%7C%20*%20cos%5Calpha)  
 
 6. ### Векторное произведение двух векторов  
 
