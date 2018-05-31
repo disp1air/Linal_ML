@@ -4,6 +4,8 @@ https://zaochnik.ru/blog/proizvodnaya-dlya-chajnikov-opredelenie-kak-najti-prime
 Операция нахождения производной называется **дифференцированием**.
 Производную обозначают y' или ![formula](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdy%7D%7Bdx%7D)  
 
+Если нельзя провести касательную – то функция не дифференцируема.  
+
 ### Правила дифференцирования:
 http://mathprofi.ru/tablica_proizvodnyh.pdf  
 
