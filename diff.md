@@ -9,3 +9,4 @@ https://zaochnik.ru/blog/proizvodnaya-dlya-chajnikov-opredelenie-kak-najti-prime
 ### Правила дифференцирования:
 http://mathprofi.ru/tablica_proizvodnyh.pdf  
 
+ - производная степенной функции: ![formula](http://latex.codecogs.com/gif.latex?%7B%28x%5En%29%7D%27%20%3D%20n%20*%20%28x%5E%7Bn-1%7D%29) 
