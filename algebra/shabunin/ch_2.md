@@ -1,0 +1,2 @@
+Если любой элемент множества A принадлежит множеству B, то множество A называется подмножеством множества B, что обозначается ![formula](http://latex.codecogs.com/gif.latex?A\subset&space;B)  
+Если при этом множества равны (A = B), то уместно обозначение ![formula](http://latex.codecogs.com/gif.latex?A\subseteq&space;B) 
