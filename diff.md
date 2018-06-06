@@ -1,4 +1,4 @@
-http://www.codecogs.com/latex/eqneditor.php  
+http://latex.codecogs.com/eqneditor/samples/example3.php  
 https://zaochnik.ru/blog/proizvodnaya-dlya-chajnikov-opredelenie-kak-najti-primery-reshenij/  
 
 Операция нахождения производной называется **дифференцированием**.
