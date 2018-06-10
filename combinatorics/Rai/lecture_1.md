@@ -74,12 +74,8 @@ k-размещения или k-сочетания, где k-указывает 
 n = n1 + n2 + ... + nk. Сколько можно составить различных слов длины n.
 Доказательство: есть всего n-позиций на которые будем расставлять буквы чтобы сформировать слово. Выберем произвольные n1 позиции на которые расставим буквы a1 в каком порядке совершенно не важно. для этого потребуется ![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;C_{n}^{n_{1}}). Т.к. эти места зафиксированны то свободных мест осталость ![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;n&space;-&space;n_{1}) на каждое из которых мы можем размещать буквы a2. Следовательно вариантов выбора позиций для букв a2 у нас ![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;C_{n&space;-&space;n_{1}}^{n_{2}})  
 
-![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;C_{n}^{n_{1}}C_{n&space;-&space;n_{1}}^{n_{2}}C_{n&space;-&space;n_{1}&space;-&space;n_{2}}^{n_{3}}&space;...&space;C_{n&space;-&space;n_{1}&space;-&space;n_{2}&space;-&space;n_{3}-&space;...&space;-&space;n_{k-1}}^{n_{k}})  
-
 ![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;C_{n}^{n_{1}}C_{n-n_{1}}^{n_{2}}C_{n-n_{1}-n_{2}}^{n_{3}}...C_{n-n_{1}-&space;n_{2}-n_{3}-...-&space;n_{k-1}}^{n_{k}}&space;=&space;\frac{n!}{n!(n-n_{1})!}\frac{(n-&space;n_{1})!}{n_{2}!(n-n_{1}&space;-&space;n_{2})!}...\frac{(n-n_{1}-...-&space;n_{k-&space;1})!}{n_{k}!(n-n_{1}-...-n_{k})!})
 
 После сокращений получим:
 
 ![formula](http://latex.codecogs.com/gif.latex?\dpi{120}&space;\frac{n!}{n_1!n_2!...n_k!})  
-
-###Полиномиальная формула
