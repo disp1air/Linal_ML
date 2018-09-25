@@ -26,4 +26,4 @@
 
 Функция e в степени x обладает замечательным свойством: ее производная также равна e в степени x.  
 
-  ![formula]([img[http://latex.codecogs.com/gif.latex?\inline \dpi{120} \large (e^{x})' = e^{x}]]) 
+![formula]([img[http://latex.codecogs.com/gif.latex?\inline \dpi{120} \large (e^{x})' = e^{x}]]) 
